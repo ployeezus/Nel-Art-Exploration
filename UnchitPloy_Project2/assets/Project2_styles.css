@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.asAbove{
+	text-align: center;
+}
+.soBelow {
+	text-align: center;
+}
+
+.bg{
+  background-image: url("IMG_9286 2.JPG");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
